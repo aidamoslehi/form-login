@@ -1,4 +1,4 @@
-## Login form 
+## Login Form 
 ### A project based on react.js and react-dom
 * create a dynamic login form with react.js and use the class component. if use F12 in chrome you can see the username and password.
 * [Repository](https://github.com/aidamoslehi/form-login)  
