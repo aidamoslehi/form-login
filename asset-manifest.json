@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/form-login/static/css/main.4b4311f3.chunk.css",
+    "main.js": "/form-login/static/js/main.c6c00291.chunk.js",
+    "main.js.map": "/form-login/static/js/main.c6c00291.chunk.js.map",
+    "runtime-main.js": "/form-login/static/js/runtime-main.48aedafb.js",
+    "runtime-main.js.map": "/form-login/static/js/runtime-main.48aedafb.js.map",
+    "static/css/2.27dd871e.chunk.css": "/form-login/static/css/2.27dd871e.chunk.css",
+    "static/js/2.12bda356.chunk.js": "/form-login/static/js/2.12bda356.chunk.js",
+    "static/js/2.12bda356.chunk.js.map": "/form-login/static/js/2.12bda356.chunk.js.map",
+    "static/js/3.aef775c2.chunk.js": "/form-login/static/js/3.aef775c2.chunk.js",
+    "static/js/3.aef775c2.chunk.js.map": "/form-login/static/js/3.aef775c2.chunk.js.map",
+    "index.html": "/form-login/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/form-login/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.4b4311f3.chunk.css.map": "/form-login/static/css/main.4b4311f3.chunk.css.map",
+    "static/js/2.12bda356.chunk.js.LICENSE.txt": "/form-login/static/js/2.12bda356.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/form-login/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/all.css": "/form-login/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48aedafb.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.12bda356.chunk.js",
+    "static/css/main.4b4311f3.chunk.css",
+    "static/js/main.c6c00291.chunk.js"
+  ]
+}
